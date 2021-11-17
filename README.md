@@ -1,4 +1,4 @@
-# Time-series-ML-mini-project-on-stock-market-data-python-Collab
+# Time-series-ML-mini-project-on-stock-Analysis and Sereening companies data-python-Collab
 **Data fetched from  https://www.screener.in**	
 
 **Time Series ML Project Tasks**
