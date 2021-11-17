@@ -1,5 +1,6 @@
-# Time-series-ML-mini-project-on-stock-Analysis and Sereening companies data-python-Collab
-**Data fetched from  https://www.screener.in**	
+#   Stock Market and Company Financial Data Analytics and Prediction using Time series ML models
+- python-Collab
+- **Data fetched from  https://www.screener.in**	
 
 **Time Series ML Project Tasks**
  - load the dataset
